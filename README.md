@@ -28,4 +28,3 @@ I'm always eager to learn new technologies and take on challenging projects. Whe
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Elastic Search](https://img.shields.io/badge/-Elastic%20Search-000?&logo=ElasticSearch)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
-![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=ApacheKafka)
