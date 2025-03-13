@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Yasir Naç 👋
 
-I'm a Full Stack Developer with a passion for building applications using a variety of technologies, including Golang, C#, Python, Node.js, TypeScript, and Elastic Search. I also enjoy leveraging artificial intelligence models to create innovative solutions.
+I'm a Full Stack Developer with a passion for building applications using a variety of technologies, including Golang, C#, Python, TypeScript. I also enjoy leveraging artificial intelligence models to create innovative solutions.
 
 ## 🔭 What I'm working on
 - Exploring new AI models and their applications
